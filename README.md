@@ -3,7 +3,7 @@
 </h1>
 
 <h2>
-  if you using localhost
+  if you are using localhost
 </h2>
 <ul>
   <li>
@@ -12,7 +12,7 @@
 </ul>
 
 <h2>
-  if you using replit
+  if you are using replit
 </h2>
 <ul>
   <li>
