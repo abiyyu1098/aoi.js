@@ -1,0 +1,20 @@
+{
+  "name": "Shiko`s Bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^5.5.5",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "leaf-utils": "^1.1.2",
+    "nekos-best.js": "^6.1.0",
+    "openai": "^3.1.0"
+  }
+}
